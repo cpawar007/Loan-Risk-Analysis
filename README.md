@@ -26,3 +26,44 @@ This project analyzes loan applicant data to understand credit risk patterns and
 ---
 
 ## 📁 Data Pipeline
+Raw Data → NumPy Cleaning → Feature Engineering → Model-Ready Data
+
+Each stage outputs a CSV file to ensure reproducibility.
+
+---
+
+## 🔍 Key Insights
+- Borrowers with longer employment tenure show lower risk
+- Higher loan-to-income ratio increases default probability
+- Loan grade is strongly associated with credit risk
+- Employment stability is a key risk-reducing factor
+
+---
+
+## 🤖 Machine Learning
+- Models Used: Logistic Regression, Random Forest
+- Feature Selection: Pearson Correlation & Chi-Square Test
+- Evaluation Metrics: Accuracy, ROC-AUC
+- Final model balances interpretability and performance
+
+---
+
+## 📊 Excel Dashboard
+An interactive Excel dashboard was created to visualize:
+- Risk distribution
+- Loan grades
+- Borrower profiles
+- Key KPIs
+
+Dashboard preview is available in the `/images` folder.
+
+---
+
+## 📌 Conclusion
+This project demonstrates practical data analysis and machine learning skills with a strong focus on business understanding, reproducibility, and explainability.
+
+---
+
+## 👤 Author
+CHETAN  
+Aspiring Data Analyst / Data Scientist
