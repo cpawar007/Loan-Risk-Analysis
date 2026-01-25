@@ -2,6 +2,10 @@
 
 ## 📌 Project Overview
 This project analyzes loan applicant data to understand credit risk patterns and build a machine learning model to predict loan risk. The workflow demonstrates an end-to-end data analytics pipeline using Python, SQL, Excel, and Machine Learning.
+## 🚀 Live Demo
+
+👉 [Click here to try the Loan Risk Prediction App]((https://loan-risk-prediction007.streamlit.app/))
+
 
 ---
 
